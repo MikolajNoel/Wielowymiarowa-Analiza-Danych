@@ -1,0 +1,22 @@
+company,diameter,topping,variant,size,extra_sauce,extra_cheese,extra_mushrooms
+A,18.5 inch,mozzarella,super_supreme,jumbo,no,no,no
+A,14 inch,smoked_beef,double_signature,reguler,yes,no,yes
+E,12 inch,chicken,double_decker,medium,no,yes,no
+E,12 inch,mozzarella,classic,medium,yes,yes,yes
+E,8.5 inch,mozzarella,classic,small,yes,no,yes
+E,12 inch,mushrooms,crunchy,medium,no,yes,yes
+B,8.5 inch,chicken,classic,small,no,yes,yes
+B,17 inch,mozzarella,new_york,XL,no,yes,yes
+C,8.5 inch,tuna,spicy_tuna,small,yes,yes,yes
+C,8.5 inch,vegetables,gournet_greek,small,no,no,no
+A,12 inch,smoked_beef,american_favorite,reguler,no,no,no
+C,12 inch,vegetables,gournet_greek,medium,no,no,no
+A,12 inch,mushrooms,meat_lovers,reguler,yes,yes,yes
+E,17 inch,mozzarella,new_york,XL,no,yes,yes
+E,12 inch,chicken,classic,medium,no,yes,yes
+C,8.5 inch,mushrooms,extravaganza,small,yes,yes,no
+E,12 inch,mozzarella,crunchy,medium,no,no,no
+D,18.5 inch,mozzarella,meat_lovers,jumbo,no,yes,no
+D,16.5 inch,smoked_beef,double_mix,reguler,yes,no,yes
+B,14 inch,mushrooms,classic,large,no,yes,yes
+A,16 inch,smoked_beef,meat_lovers,jumbo,no,yes,yes
